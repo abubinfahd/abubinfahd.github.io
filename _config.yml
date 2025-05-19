@@ -3,3 +3,4 @@ title: Abu Bin Fahd.
 #description: text below image
 #show_downloads: true
 #theme: jekyll-theme-minima
+remote_theme: jekyll/minima@d4d779a
