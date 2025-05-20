@@ -1,6 +1,4 @@
-# Abu Bin Fahd – CV
-
-Welcome to my CV repository. This repository contains a structured and detailed version of my academic and professional background. Below, you'll find a quick overview of my education, skills, and experiences.
+# Data Science Enthusiast
 
 ## 📫 Contact Information
 
@@ -20,18 +18,18 @@ Welcome to my CV repository. This repository contains a structured and detailed 
 ## 🎓 Education
 
 ### Khulna University – Khulna, Bangladesh  
-**Master of Science in Statistics**  
+**Master of Science in Statistics(Thesis)**  
 *January 2019 – December 2024*  
 - CGPA: 3.80 / 4.00  
-- Thesis: *(To be added)*  
+- Thesis: *Banknote Serial Number recognition using Advanced Deep Learning*  
 - Courses: *(To be listed)*  
 
 ### Khulna University – Khulna, Bangladesh  
 **Bachelor of Science in Statistics**  
 *January 2024 – July 2025*  
 - CGPA: 3.49 / 4.00  
-- Project: *(To be added)*  
-- Courses: *(To be listed)*  
+- Project: *Sentiment Analysis on Bangladeshi English Newspaper Headlines: A Comparative Study of Machine Learning Models*  
+- Courses: *Probability, Calculus, Algebra and Geometry, C Programming, Differential Equations, Numerical Analysis, Inference, Regression, Multivariate analysis, Data Mining, Data Analysis*  
 
 ### Cantonment College, Jashore – Jashore, Bangladesh  
 **Higher Secondary Certificate, Science**  
@@ -77,7 +75,8 @@ Welcome to my CV repository. This repository contains a structured and detailed 
 
 ## 🏆 Honors and Awards
 
-*(Academic or professional recognitions)*
+*National Science and Technology (NST) Fellowship, 2025
+Awarded by the Ministry of Science and Technology, Bangladesh for academic excellence in Statistics.*
 
 ---
 
