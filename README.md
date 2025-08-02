@@ -4,10 +4,9 @@
 
 - **Email:** abubinfahd@gmail.com  
 - **Mobile:** +880 1401 019802  
-- **Location:** Islamnagar Road, Beside Khulna University, Khulna-9208, Bangladesh  
-- **Portfolio:** [Insert your portfolio link here]  
+- **Location:** Tolarbar, Mirpur 1, Dhaka  
+- 📄 [Resume (PDF)](URL_of_your_resume) | [LinkedIn](URL_of_your_linkedin_profile) | [GitHub](https://github.com/your_github_username)
 
----
 
 ## 📘 Biography
 
