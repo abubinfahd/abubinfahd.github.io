@@ -10,9 +10,7 @@
 
 ## 📘 Biography
 
-*A brief personal or academic biography can be included here.*
-
----
+As a passionate Machine Learning Engineer enthusiast, I specialize in building intelligent systems using **scikit-learn**, **PyTorch**, **TensorFlow**, and **XGBoost** for machine learning and deep learning applications. I have hands-on experience with **OpenCV**, and  **YOLO** in computer vision, and **HuggingFace**, and **Transformers** for natural language processing tasks. I deploy models using **FLASK**, **Docker**, and **Streamlit**, while leveraging **MLflow**, **DVC**, and **GitHub Actions** for efficient MLOps. I am also proficient in cloud platforms like **AWS**, ensuring scalable solutions for end-to-end machine learning pipelines. Always eager to learn and apply new techniques, I am driven to solve complex problems and contribute to the AI ecosystem.
 
 ## 🎓 Education
 
@@ -33,20 +31,22 @@
 ### Cantonment College, Jashore – Jashore, Bangladesh  
 **Higher Secondary Certificate, Science**  
 *June 2015 – July 2017*  
-- GPA: 4.58 / 5.00  
+- GPA: 5.00 / 5.00  
 
 ### Police Line Secondary School, Jashore – Jashore, Bangladesh  
 **Secondary School Certificate, Science**  
 *January 2006 – May 2015*  
 - GPA: 5.00 / 5.00  
 
----
-
 ## 🧠 Skills Summary
 
-*(List of your technical, analytical, or soft skills)*
-
----
+🐍 Programming Language: Python, C, C++
+🧠 ML/DL: scikit-learn, PyTorch, TensorFlow, ML & DL(CNN, RNN) algorithms  
+🖼 Computer Vision: OpenCV, YOLO  
+💬 NLP: HuggingFace, spaCy, NLTK, Transformers  
+🚀 Deployment: FLASK, Docker, Streamlit
+🛠 MLOps: MLflow, DVC, GitHub Actions  
+☁️ Cloud: AWS 
 
 ## 💼 Work Experience
 
@@ -58,19 +58,17 @@
 
 *(Projects, collaborations, or academic research involvement)*
 
----
 
 ## 📚 Publications
 
 - **Book Chapters:** *(List here if applicable)*
+- **Paper** *(List here if applicable)*
 
----
 
 ## 🗣️ Language Proficiency
 
-*(Languages spoken and proficiency levels)*
-
----
+- Bangla(Native)
+- English(Fluent)
 
 ## 🏆 Honors and Awards
 
