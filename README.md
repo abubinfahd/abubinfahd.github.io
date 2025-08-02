@@ -10,7 +10,7 @@
 
 ## 📘 Biography
 
-As a passionate Machine Learning Engineer enthusiast, I specialize in building intelligent systems using **scikit-learn**, **PyTorch**, **TensorFlow**, and **XGBoost** for machine learning and deep learning applications. I have hands-on experience with **OpenCV**, and  **YOLO** in computer vision, and **HuggingFace**, and **Transformers** for natural language processing tasks. I deploy models using **FLASK**, **Docker**, and **Streamlit**, while leveraging **MLflow**, **DVC**, and **GitHub Actions** for efficient MLOps. I am also proficient in cloud platforms like **AWS**, ensuring scalable solutions for end-to-end machine learning pipelines. Always eager to learn and apply new techniques, I am driven to solve complex problems and contribute to the AI ecosystem.
+As a passionate Machine Learning Engineer enthusiast, I specialize in building intelligent systems using scikit-learn, PyTorch, and TensorFlow for machine learning and deep learning applications. I have hands-on experience with OpenCV, YOLO in computer vision, HuggingFace, and Transformers for natural language processing tasks. I deploy models using FLASK, Docker, and Streamlit, while leveraging MLflow, DVC, and GitHub Actions for efficient MLOps. I am also proficient in cloud platforms like AWS, ensuring scalable solutions for end-to-end machine learning pipelines. Always eager to learn and apply new techniques, I am driven to solve complex problems and contribute to the AI ecosystem.
 
 ## 🎓 Education
 
