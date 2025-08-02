@@ -7,7 +7,7 @@
 - **Location:** Tolarbar, Mirpur 1, Dhaka  
 - 📄 [Resume (PDF)](URL_of_your_resume) | [LinkedIn](URL_of_your_linkedin_profile) | [GitHub](https://github.com/your_github_username)
 
-
+---
 ## 📘 Biography
 
 As a passionate Machine Learning Engineer enthusiast, I specialize in building intelligent systems using scikit-learn, PyTorch, and TensorFlow for machine learning and deep learning applications. I have hands-on experience with OpenCV, YOLO in computer vision, HuggingFace, and Transformers for natural language processing tasks. I deploy models using FLASK, Docker, and Streamlit, while leveraging MLflow, DVC, and GitHub Actions for efficient MLOps. I am also proficient in cloud platforms like AWS, ensuring scalable solutions for end-to-end machine learning pipelines. Always eager to learn and apply new techniques, I am driven to solve complex problems and contribute to the AI ecosystem.
@@ -37,9 +37,8 @@ As a passionate Machine Learning Engineer enthusiast, I specialize in building i
 **Secondary School Certificate, Science**  
 *January 2006 – May 2015*  
 - GPA: 5.00 / 5.00  
-
+---
 ## 🧠 Skills Summary
-
 🐍 Programming Language: Python, C, C++
 🧠 ML/DL: scikit-learn, PyTorch, TensorFlow, ML & DL(CNN, RNN) algorithms  
 🖼 Computer Vision: OpenCV, YOLO  
@@ -48,8 +47,8 @@ As a passionate Machine Learning Engineer enthusiast, I specialize in building i
 🛠 MLOps: MLflow, DVC, GitHub Actions  
 ☁️ Cloud: AWS 
 
-## 💼 Work Experience
 
+## 💼 Work Experience
 *(Details of any professional roles held)*
 
 ---
@@ -62,18 +61,19 @@ Khulna University
 - Spearheaded data analysis and statistical programming to support machine learning-based academic research.
 - Authored one research paper and co-authored two others; one currently under review, one submitted, and another in preparation for submission.
 - Demonstrated strong analytical skills, academic writing proficiency, and a proactive approach to advancing research in the field of machine learning.
-
+---
 
 ## 📚 Publications
 
 - **Book Chapters:** *(List here if applicable)*
 - **Paper** *(List here if applicable)*
 
-
+---
 ## 🗣️ Language Proficiency
 
 - Bangla(Native)
 - English(Fluent)
+---
 
 ## 🏆 Honors and Awards
 
@@ -84,23 +84,36 @@ Awarded by the Ministry of Science and Technology, Bangladesh for academic excel
 
 ## 🎓 Online Courses & Certifications
 
-*(Relevant online courses completed, platforms, and certifications)*
+**Research Methodology (Basic to Advanced)**  
+*October 2023*  
+**Research Help Bangladesh**  
+- Completed a comprehensive training in research methodology, covering both basic and advanced research techniques, including data collection, analysis, and academic writing.
+
+**Data Insight**  
+*July 2022*  
+**Data Scientist Program**  
+- Completed a comprehensive program in data science, focusing on data analysis, machine learning, and statistical modeling.
+
+**DataCamp**  
+*Dec 2022*  
+**Data Scientist with Python**  
+- Completed the Data Scientist with Python course, gaining proficiency in Python for data analysis, visualization, and machine learning.
 
 ---
-
 ## 🤝 Volunteer Work
-**Voirobi** 									        	  	          
-2019-2023<br> 
-Khulna University<br>
-General Secretary<br> 
-- A leading music club at Khulna University, fostering talent and organizing vibrant musical events, workshops, and cultural programs. Actively contributed to the club's growth and creative direction, building a strong platform for aspiring musicians.
+**Voirobi**  
+*2019-2023*  
+**Khulna University**  
+**General Secretary**  
+- A leading music club at Khulna University, fostering talent and organizing vibrant musical events, workshops, and cultural programs.  
+- Actively contributed to the club's growth and creative direction, building a strong platform for aspiring musicians.
 
-**Rotaract Club of Khulna University**
-2019-2020<br>
-Member<br>
-- Raised funds for flood-affected people.
-- Volunteer on KU Job Fair and the event Thirst Optimist.
-
+**Rotaract Club of Khulna University**  
+*2019-2020*  
+**Member**  
+- Raised funds for flood-affected people.  
+- Volunteered at the KU Job Fair and the event **Thirst Optimist**.
+---
 
 ## 📇 References
 
@@ -109,9 +122,6 @@ Associate Professor, Statistics Discipline, Khulna University, Bangladesh
 - **Email:** *(To be added)*  
 - **Phone:** *(To be added)*
 
-*(Repeat or update as needed for additional referees)*
-
----
 
 ## 📜 Declaration
 
