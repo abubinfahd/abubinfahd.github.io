@@ -56,7 +56,12 @@ As a passionate Machine Learning Engineer enthusiast, I specialize in building i
 
 ## 🔬 Research Experience
 
-*(Projects, collaborations, or academic research involvement)*
+**Research Assistant**<br>
+Jan 2023 – April 2025<br>
+Khulna University
+- Spearheaded data analysis and statistical programming to support machine learning-based academic research.
+- Authored one research paper and co-authored two others; one currently under review, one submitted, and another in preparation for submission.
+- Demonstrated strong analytical skills, academic writing proficiency, and a proactive approach to advancing research in the field of machine learning.
 
 
 ## 📚 Publications
@@ -84,10 +89,18 @@ Awarded by the Ministry of Science and Technology, Bangladesh for academic excel
 ---
 
 ## 🤝 Volunteer Work
+**Voirobi** 									        	  	          
+2019-2023<br> 
+Khulna University<br>
+General Secretary<br> 
+- A leading music club at Khulna University, fostering talent and organizing vibrant musical events, workshops, and cultural programs. Actively contributed to the club's growth and creative direction, building a strong platform for aspiring musicians.
 
-*(Community service, student clubs, non-profit involvement)*
+**Rotaract Club of Khulna University**
+2019-2020<br>
+Member<br>
+- Raised funds for flood-affected people.
+- Volunteer on KU Job Fair and the event Thirst Optimist.
 
----
 
 ## 📇 References
 
